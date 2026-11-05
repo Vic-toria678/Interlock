@@ -1,6 +1,5 @@
 # Interlock
 A spending interlock for AI shopping agents: every purchase is checked against your rules before PayPal is ever called. Built with the PayPal Agent Toolkit and AI. Sandbox only.
-# Interlock
 
 AI agents can now shop for us, but nothing stops a confused or hijacked agent
 from overspending. Interlock is a safety layer that sits between the agent and
