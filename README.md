@@ -118,8 +118,10 @@ npx tsx lib/interlock/demo.ts
 
 **Sandbox buyer (test account only):**
 
-- Email: `PUT_SANDBOX_BUYER_EMAIL_HERE`
-- Password: `PUT_SANDBOX_BUYER_PASSWORD_HERE`
+- Email: sb-h472dd53881266@personal.example.com
+- Password:TC8|)xP[
+
+If this buyer does not work for you, create your own free sandbox Personal account (United States) at developer.paypal.com under Testing Tools, then Sandbox Accounts.
 
 Use an incognito window so a real PayPal login does not interfere. These are fake sandbox credentials. No real account or money is involved.
 
